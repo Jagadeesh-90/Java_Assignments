@@ -1,4 +1,8 @@
-package assignment_7.innerClass;
+//Create a class with an inner class that has a non-default constructor (one that takes arguments).
+// Create a second class with an inner class that inherits from the first inner class.
+
+
+        package assignment_7.innerClass;
 
 public class Main {
     public static void main(String[] args) {
